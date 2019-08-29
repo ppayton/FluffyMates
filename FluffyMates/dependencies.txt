@@ -1,0 +1,6 @@
+react native add-on libraries
+npm install --save react-native-collapsible
+npm install --save react-native-swipe-cards
+npm i react-native-swiper --save
+npm install native-base --save
+npm install react-native-scrollable-tab-view --save
